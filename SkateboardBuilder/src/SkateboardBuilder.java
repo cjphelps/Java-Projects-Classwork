@@ -1,8 +1,4 @@
-/**
- * Christa Phelps
- * Skateboard Builder
- * 1/28/19
- */
+
 import java.awt.FlowLayout;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
